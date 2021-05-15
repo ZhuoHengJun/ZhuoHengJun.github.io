@@ -10,7 +10,7 @@ const blog = [
         id: 2,
         title: "书",
         href: "https://baike.baidu.com/item/%E4%B8%89%E4%BD%93/5739303?fr=aladdin",
-        image: "https://ss1.baidu.com/9vo3dSag_xI4khGko9WTAnF6hhy/baike/s%3D220/sign=db595deab2de9c82a265fe8d5c8080d2/d31b0ef41bd5ad6e94c5dd3980cb39dbb6fd3c20.jpg"
+        src="./img/about.jpeg"
 
     },
     {
